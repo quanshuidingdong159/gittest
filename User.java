@@ -1,9 +1,14 @@
-s
-这个阿里云123123123123131231231231231231231231这是在github修改的东西ds
-r
-r
-111111
-222222
-  333333
-123123123123123123123131233333333333333333333333
-这个Dev 分支添加的东西  
+package  /
+
+public class User{
+    private String name ;
+
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+}
