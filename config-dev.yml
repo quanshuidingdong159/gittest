@@ -1,1 +1,2 @@
-这个main分支的dev。yml配置文件
+config:
+  info:"master branch,springcloud-config/config-dev.yml version=1.0"
